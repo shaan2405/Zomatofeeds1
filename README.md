@@ -1,1 +1,1 @@
-# Zomatofeeds1
+ZomatoFeeds is a Streamlit-based food feedback and sentiment analysis app featuring interactive menu reviews, real-time sentiment detection, ratings analytics, and visual insights using Plotly charts.
